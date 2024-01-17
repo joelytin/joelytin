@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech, music, dance, coffee, food.
 - 🌱 I’m currently learning Java, SQL, Javascript, HTML, and want to improve my technical skills~
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me: joely.t13@gmail.com
+- 📫 How to reach me: joely.t13@gmail.com, https://www.linkedin.com/in/joelytin/
 - 😄 Pronouns: she/they
 
 <!---
