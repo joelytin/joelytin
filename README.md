@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, SQL, Javascript, HTML, and want to improve my technical skills~
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: joely.t13@gmail.com, https://www.linkedin.com/in/joelytin/
+- ⚡ Fun fact: I almost majored in music ;]
 - 😄 Pronouns: she/they
 
 <!---
