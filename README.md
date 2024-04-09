@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joely</h1>
 <h3 align="center">A passionate Software Engineering student from Malaysia!</h3>
 
-- 🌱 I’m currently learning **HTML/CSS, JavaScript, React, Java, SQL**
+- 🌱 I’m currently **studying.**
 
 - 👀 I’m interested in **tech, music, dance, coffee, food.**
 
