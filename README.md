@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Joely and I'm a Software Engineering student, from Malaysia.</h4>
+<h4 align="left">Hi 👋! My name is Joely and I'm a Software Engineer, from Malaysia.</h4>
 
 ###
 
